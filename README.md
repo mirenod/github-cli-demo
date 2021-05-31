@@ -1,2 +1,2 @@
 # github-cli-demo
-update 6
+update 7
